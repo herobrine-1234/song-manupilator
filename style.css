@@ -1,0 +1,6 @@
+body{background-size:cover;}
+.div_song{float:left}
+.heading_div{width:100%;margin:0px;font-size:30px}
+.note{font-size:15px;color:green}
+#song{font-size:25px;margin:15px}
+canvas{border:10px dotted rgb(122, 161, 122);}
